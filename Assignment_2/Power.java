@@ -1,4 +1,4 @@
-
+package Assignment_2;
 class Power {
     public static void main(String[] args) {
         int a = (int)(Math.random() * 10);

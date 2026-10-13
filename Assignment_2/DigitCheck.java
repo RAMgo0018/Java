@@ -1,3 +1,4 @@
+package Assignment_2;
 class DigitCheck
 {
     public static void main(String[] args) 

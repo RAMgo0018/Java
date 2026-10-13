@@ -1,3 +1,4 @@
+package Assignment_2;
 public class MaxWithOccurance {
     public static void main(String[] args) {
         int firstnumber=(int)(Math.random()*100);
